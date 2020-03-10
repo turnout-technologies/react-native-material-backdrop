@@ -407,8 +407,8 @@ const styles = StyleSheet.create({
   frontLayerContainer: {
     flex: 1,
     backgroundColor: '#FAFAFA',
-    borderTopLeftRadius: 16,
-    borderTopRightRadius: 16,
+    borderTopLeftRadius: 30,
+    borderTopRightRadius: 30,
   },
   backLayer: {
     position: 'absolute',
