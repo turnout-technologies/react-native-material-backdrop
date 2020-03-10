@@ -9,8 +9,9 @@ import {
   Easing,
   View,
   Text,
+  SafeAreaView
 } from 'react-native'
-import { Icon, SafeAreaView, Touchable, Utils } from './utils'
+import { Icon, Touchable, Utils } from './utils'
 
 type ElementsConfigI = {
   /**
